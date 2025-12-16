@@ -46,12 +46,6 @@ A self-hosted AI automation platform designed to integrate LLMs into daily workf
 
 ---
 
-### 📊 GitHub Stats
-
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjmarz&show_icons=true&theme=dracula&hide_border=true)
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Marino-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pjmarz)
